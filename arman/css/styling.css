@@ -1,0 +1,43 @@
+
+body {
+    background: linear-gradient(rgb(199, 97, 97), rgb(231, 185, 68));
+}
+
+#mainBody {
+    padding: 0%;
+}
+.mainpragraph {
+    font-size: 2em;
+    color: aliceblue;
+}
+
+
+.mainBody, .subBody {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.mainBody {
+    /*background-color: rgb(234, 192, 141);*/
+   /* background-image: url("image/gary-scott-YvRTYzkT6Hs-unsplash.jpg");*/
+    background-image: url("https://images.unsplash.com/photo-1447433693259-c8549e937d62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=553&q=80");
+   
+}
+
+.subBody {
+    background-color: beige;
+    
+}
+
+#mainImage {
+    width: 100%;
+    height: auto;
+}
+
+.foot1, .foot2, .foot3 {
+    border: 1px solid black;
+    height: 150px;
+    background-color: rgb(151, 117, 117);
+    border-radius: 10px;
+
+}
